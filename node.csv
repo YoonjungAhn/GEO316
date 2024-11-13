@@ -1,0 +1,127 @@
+,node_id,prjct_d,vsn,address,dscrptn,strt_tm,end_tms,longitude,latitude
+1,001e0610ba46,AoT_Chicago,4,State St & Jackson Blvd Chicago IL,AoT Chicago (S) [C],10/9/17 0:00,NA,-87.627678,41.878377
+2,001e0610ba3b,AoT_Chicago,6,18th St & Lake Shore Dr Chicago IL,AoT Chicago (S),8/8/17 0:00,NA,-87.616055,41.858136
+3,001e0610f02f,AoT_Chicago,00A,Lake Shore Drive & Fullerton Ave Chicago IL,AoT Chicago (S) [CA],5/7/18 0:00,NA,-87.6307578,41.9262614
+4,001e0610ba8f,AoT_Chicago,00D,Cornell & 47th St Chicago IL,AoT Chicago (S),8/8/17 0:00,NA,-87.590228,41.810342
+5,001e0610ba16,AoT_Chicago,10,Homan Ave & Roosevelt Rd Chicago IL,AoT Chicago (S) [C],7/18/18 0:00,NA,-87.710543,41.866349
+6,001e06107e5d,AoT_Chicago,14,State St & Washington St Chicago IL,AoT Chicago (T),9/14/16 0:00,NA,-87.6277685,41.8832053
+7,001e0610ba8b,AoT_Chicago,18,Stony Island Ave & 63rd St Chicago IL,AoT Chicago (S) [C],2/26/18 0:00,NA,-87.586456,41.7806
+8,001e0610ba13,AoT_Chicago,01C,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [C] {ComEd},1/1/18 0:00,NA,-87.71299,41.751238
+9,001e0610ba18,AoT_Chicago,01D,Damen Ave & Cermak Chicago IL,AoT Chicago (S),12/15/17 0:00,NA,-87.675825,41.852179
+10,001e0610bc10,AoT_Chicago,01F,State St & 87th Chicago IL,AoT Chicago (S) [C],2/22/18 0:00,NA,-87.624179,41.736314
+11,001e0610bbf9,AoT_Chicago,20,Western Ave & 69th St Chicago IL,AoT Chicago (S) [C],2/13/18 0:00,NA,-87.683396,41.768319
+12,001e0610bbff,AoT_Chicago,25,Western Ave & 18th St Chicago IL,AoT Chicago (S),12/15/17 0:00,NA,-87.685806,41.857797
+13,001e0610b9e7,AoT_Chicago,28,Western Blvd & 35th St Chicago IL,AoT Chicago (T),2/2/17 0:00,NA,-87.684862,41.8303847
+14,001e0610ba15,AoT_Chicago,02A,Jeffrey Ave & 95th St Chicago IL,AoT Chicago (S) [C],2/22/18 0:00,NA,-87.57535,41.722457
+15,001e0610bbe5,AoT_Chicago,02C,Martin Luther King Dr & 87th St Chicago IL,AoT Chicago (S) [C],2/16/18 0:00,NA,-87.614529,41.736495
+16,001e0610ee33,AoT_Chicago,02D,Damen Ave & Wilson Ave Chicago IL,AoT Chicago (S) [C],2/15/18 0:00,NA,-87.679076,41.965089
+17,001e0610b9e5,AoT_Chicago,02F,Sheridan Rd & Granville Ave Chicago IL,AoT Chicago (S) [C],11/28/17 0:00,NA,-87.655523,41.994597
+18,001e0610f8f4,AoT_Chicago,30,Halsted St & 34th St Chicago IL,AoT Chicago (S) [C],2/13/18 0:00,NA,-87.646133,41.832579
+19,001e0610ee41,AoT_Chicago,32,Wood St & Warren Blv Chicago IL,AoT Chicago (S) [C],12/1/17 0:00,NA,-87.671773,41.882304
+20,001e0610eef4,AoT_Chicago,34,Milwaukee Ave & Wabansia Ave Chicago IL,AoT Chicago (S),10/9/17 0:00,NA,-87.681052,41.912681
+21,001e0610ef29,AoT_Chicago,37,Martin Luther King Dr & 83rd St Chicago IL,AoT Chicago (S),2/16/18 0:00,NA,-87.614732,41.743814
+22,001e0610f668,AoT_Chicago,38,Damen Ave & Archer Chicago IL,AoT Chicago (S),12/15/17 0:00,NA,-87.675311,41.831827
+23,001e0610f730,AoT_Chicago,39,Campbell Ave & Addison St Chicago IL,AoT Chicago (S),3/31/17 0:00,NA,-87.69068,41.94672
+24,001e0610bc07,AoT_Chicago,03C,Kedzie Ave & 5th Ave Chicago IL,AoT Chicago (S),11/20/17 0:00,NA,-87.706042,41.878372
+25,001e0610ef26,AoT_Chicago,03D,Halsted St & Randolph St Chicago IL,AoT Chicago (S),12/1/17 0:00,NA,-87.647431,41.88431
+26,001e0610ea5a,AoT_Chicago,03E,606 Path & Milwaukee Ave Chicago IL,AoT Chicago (S),1/11/18 0:00,NA,-87.683048,41.914202
+27,001e0610ee61,AoT_Chicago,03F,Pulaski Rd & Madison St Chicago IL,AoT Chicago (S),11/20/17 0:00,NA,-87.72566,41.880732
+28,001e0610ba81,AoT_Chicago,40,Lake Shore Drive & 85th St Chicago IL,AoT Chicago (S),11/29/17 0:00,NA,-87.54045,41.741148
+29,001e0610ba57,AoT_Chicago,41,Western Ave & Madison St Chicago IL,AoT Chicago (S),11/20/17 0:00,NA,-87.686359,41.881172
+30,001e0610ee82,AoT_Chicago,48,Damen Ave & Webster Chicago IL,AoT Chicago (S) [C],2/15/18 0:00,NA,-87.677766,41.921405
+31,001e0610ef27,AoT_Chicago,04C,Western Ave & 25th St Chicago IL,AoT Chicago (S) [C],12/15/17 0:00,NA,-87.685557,41.846579
+32,001e0610fb4c,AoT_Chicago,04D,Leavitt St & Milwaukee Ave Chicago IL,AoT Chicago (S),10/9/17 0:00,NA,-87.682414,41.913583
+33,001e0610ee6f,AoT_Chicago,04E,Damen Ave & Chicago International Produce Market Chicago IL,AoT Chicago (S),11/20/17 0:00,NA,-87.673061,41.846897
+34,001e0610ef68,AoT_Chicago,04F,Ashland Ave & 18th St Chicago IL,AoT Chicago (S),11/20/17 0:00,NA,-87.666144,41.857775
+35,001e0610e809,AoT_Chicago,50,Ashland Ave & Division St Chicago IL,AoT Chicago (S),10/9/17 0:00,NA,-87.6674,41.903335
+36,001e0610ee36,AoT_Chicago,51,Cottage Grove Ave & 79th St Chicago IL,AoT Chicago (S) [C],2/22/18 0:00,NA,-87.605288,41.751295
+37,001e061135cb,AoT_Chicago,52,Ashland & 63rd St Chicago IL,AoT Chicago (S) [C],2/13/18 0:00,NA,-87.664421,41.779369
+38,001e0610e532,AoT_Chicago,53,Racine Ave & 18th St Chicago IL,AoT Chicago (S) [C],12/15/17 0:00,NA,-87.656427,41.857959
+39,001e0610e8cb,AoT_Chicago,54,Western Ave & Addison St Chicago IL,AoT Chicago (S) [C],3/14/18 0:00,NA,-87.688258,41.946731
+40,001e0610ee5d,AoT_Chicago,56,Long Ave & Fullerton Ave Chicago IL,AoT Chicago (S) [C],2/23/18 0:00,NA,-87.761072,41.923996
+41,001e0610ef73,AoT_Chicago,57,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [C] {ComEd},1/1/17 0:00,8/15/18 0:00,-87.71299,41.751142
+42,001e0610e540,AoT_Chicago,05A,Fort Dearborn Dr & 31st St Chicago IL,AoT Chicago (S) [C],11/29/17 0:00,NA,-87.607817,41.838618
+43,001e0610f6dd,AoT_Chicago,05D,Pulaski Rd & Chicago Ave Chicago IL,AoT Chicago (S) [C],2/6/18 0:00,NA,-87.726064,41.895355
+44,001e06113ad8,AoT_Chicago,62,Ashland Ave & Roosevelt Rd Chicago IL,AoT Chicago (S) [C],2/27/18 0:00,NA,-87.666306,41.866786
+45,001e0611441e,AoT_Chicago,67,Ashland Ave & 47th Chicago IL,AoT Chicago (S) [C],2/27/18 0:00,NA,-87.665048,41.808594
+46,001e06113d83,AoT_Chicago,06A,Clybourn Ave & North Ave Chicago IL,AoT Chicago (S) [C],2/23/18 0:00,5/16/18 0:00,-87.649518,41.910922
+47,001e06112e77,AoT_Chicago,06B,Ashland Ave & 59th St Chicago IL,AoT Chicago (S) [C],2/26/18 0:00,NA,-87.664343,41.786756
+48,001e0610f6db,AoT_Chicago,06D,Hutchinson Commons UChicago Chicago IL,AoT Chicago (S) [C] {UChicago},3/15/18 0:00,NA,-87.598677,41.791329
+49,001e06115365,AoT_Chicago,06E,UChicago Chicago IL,AoT Chicago (S) [C] {UChicago},4/2/18 0:00,NA,-87.59913,41.78843
+50,001e06113cff,AoT_Chicago,70,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [CA] {ComEd},1/1/17 0:00,4/1/18 0:00,-87.71299,41.751142
+51,001e0611537d,AoT_Chicago,71,Ratner Hall UChicago Chicago IL,AoT Chicago (S) [C] {UChicago},3/15/18 0:00,NA,-87.601646,41.794167
+52,001e06113107,AoT_Chicago,72,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [CA] {ComEd},1/1/17 0:00,NA,-87.71299,41.751142
+53,001e06114fd4,AoT_Chicago,73,Martin Luther King Dr & Garfield Blvd Chicago IL,AoT Chicago (S) [C],3/8/18 0:00,NA,-87.615957,41.794477
+54,001e0610890f,AoT_Chicago,74,"UChicago, Smart Museum Chicago IL",AoT Chicago (S) [C] {UChicago},4/12/18 0:00,NA,-87.600117,41.793278
+55,001e06113ad6,AoT_Chicago,75,Milwaukee Ave & Wood St Chicago IL,AoT Chicago (S) [C],3/9/18 0:00,NA,-87.671373,41.906481
+56,001e06109f62,AoT_Chicago,76,Pulaski Rd & 27th St Chicago IL,AoT Chicago (S) [C],7/18/18 0:00,NA,-87.724499,41.84241
+57,001e06113ace,AoT_Chicago,77,Martin Luther King Dr & 35th St Chicago IL,AoT Chicago (S) [C],3/8/18 0:00,NA,-87.617298,41.83107
+58,001e061146bc,AoT_Chicago,79,Ashland Ave & Elston Ave Chicago IL,AoT Chicago (S) [C],2/28/18 0:00,NA,-87.668257,41.918733
+59,001e06113a24,AoT_Chicago,07A,"UChicago, Oriental Museum Chicago IL",AoT Chicago (S) [C] {UChicago},4/12/18 0:00,NA,-87.597995,41.788979
+60,001e061144cd,AoT_Chicago,07B,Ashland Ave & Harrison St Chicago IL,AoT Chicago (S) [C],5/31/18 0:00,NA,-87.666599,41.8742
+61,001e061146cb,AoT_Chicago,07C,606 Path & Miwaukee Ave Chicago IL,AoT Chicago (S) [C],1/11/18 0:00,NA,-87.683022,41.9140942
+62,001e061144d6,AoT_Chicago,07D,93rd St & Cottage Grove Ave Chicago IL,AoT Chicago (S) [C],3/30/18 0:00,NA,-87.604647,41.729355
+63,001e0610e539,AoT_Chicago,07E,Cicero Ave & Madison St Chicago IL,AoT Chicago (S) [C],2/5/18 0:00,NA,-87.745268,41.880497
+64,001e0610f703,AoT_Chicago,07F,Damen Ave & Polk St Chicago IL,AoT Chicago (S) [C],2/6/18 0:00,NA,-87.67644,41.87148
+65,001e0610b9e9,AoT_Chicago,80,Broadway Ave & Lawrence Ave Chicago IL,AoT Chicago (S) [C],2/14/18 0:00,NA,-87.659672,41.96904
+66,001e0611462f,AoT_Chicago,81,Wallace St & Pershing Rd Chicago IL,AoT Chicago (S) [C],2/27/18 0:00,NA,-87.641054,41.823527
+67,001e06115369,AoT_Chicago,82,Pulaski Rd & Addison St Chicago IL,AoT Chicago (S) [C],2/23/18 0:00,NA,-87.727382,41.946373
+68,001e06113d78,AoT_Chicago,83,Cottage Grove Ave & 95th St Chicago IL,AoT Chicago (S) [C],5/31/18 0:00,NA,-87.604482,41.722044
+69,001e0610bc12,AoT_Chicago,85,Ashland Ave & 79th St Chicago IL,AoT Chicago (S) [C],2/8/18 0:00,5/23/19 0:00,-87.663518,41.75034
+70,001e0610e835,AoT_Chicago,86,Damen Ave & Lawrence Ave Chicago IL,AoT Chicago (S) [C],2/15/18 0:00,NA,-87.679174,41.968757
+71,001e0610e538,AoT_Chicago,87,Cottage Grove Ave & 87th St Chicago IL,AoT Chicago (S) [C],2/16/18 0:00,NA,-87.604759,41.736593
+72,001e0610eef2,AoT_Chicago,88,Clark St & Wilson Ave Chicago IL,AoT Chicago (S) [C],2/14/18 0:00,NA,-87.66672,41.965256
+73,001e061130f4,AoT_Chicago,89,Chicago Ave & Noble St Chicago IL,AoT Chicago (S) [C],2/6/18 0:00,NA,-87.662391,41.896157
+74,001e0610ee43,AoT_Chicago,08B,UChicago Chicago IL,AoT Chicago (S) [C] {UChicago},2/23/18 0:00,NA,-87.598713,41.788608
+75,001e0610f05c,AoT_Chicago,08C,Western Ave & Fullerton Ave Chicago IL,AoT Chicago (S) [C],2/7/18 0:00,NA,-87.687703,41.924903
+76,001e0610f732,AoT_Chicago,08D,Cicero Ave & Chicago Ave Chicago IL,AoT Chicago (S) [C],2/5/18 0:00,NA,-87.745817,41.895005
+77,001e06113100,AoT_Chicago,08E,Cottage Grove Ave & 111th St Chicago IL,AoT Chicago (S) [C],2/8/18 0:00,NA,-87.609852,41.692769
+78,001e0610e537,AoT_Chicago,08F,Clark St & Montrose Ave Chicago IL,AoT Chicago (S) [C],2/14/18 0:00,NA,-87.665948,41.961622
+79,001e0610f513,AoT_Chicago,090A,Milwaukee & Belmont Chicago IL,AoT Chicago (S) [C],2/28/18 0:00,NA,-87.723801,41.939121
+80,001e06109416,AoT_Chicago,090B,Elston and Cortland Chicago IL,AoT Chicago (S) [C],1/1/18 0:00,NA,-87.666406,41.916586
+81,001e061146d6,AoT_Chicago,091A,Halsted St & Division St Chicago IL,AoT Chicago (S) [C],2/28/18 0:00,NA,-87.648093,41.903632
+82,001e06113d22,AoT_Chicago,92,Kedzie Ave & 51st St Chicago IL,AoT Chicago (S) [C],3/2/18 0:00,NA,-87.703739,41.800846
+83,001e06113ae8,AoT_Chicago,93,"UChicago, Law School Chicago IL",AoT Chicago (S) [C] {UChicago},4/12/18 0:00,NA,-87.599623,41.795436
+84,001e06113d20,AoT_Chicago,94,Ohio St & Grand Ave Chicago IL,AoT Chicago (S) [C],5/17/18 0:00,NA,-87.6116431,41.8920031
+85,001e06114503,AoT_Chicago,95,Ave O & 126th Chicago IL,AoT Chicago (S) [C],3/2/18 0:00,NA,-87.539374,41.666078
+86,001e06113dbc,AoT_Chicago,96,Ave L & 100th St Chicago IL,AoT Chicago (S) [C],3/1/18 0:00,NA,-87.536509,41.713867
+87,001e061144c0,AoT_Chicago,97,Pulaski Rd & 71st St Chicago IL,AoT Chicago (S) [C],3/2/18 0:00,NA,-87.72242,41.764122
+88,001e06114fcf,AoT_Chicago,98,Lake Shore Drive & Irving Park Rd Chicago IL,AoT Chicago (S) [C],5/7/18 0:00,NA,-87.645248,41.954825
+89,001e061146d4,AoT_Chicago,99,Torrence Ave & Brainard Ave Chicago IL,AoT Chicago (S) [C],5/31/18 0:00,NA,-87.559113,41.65849
+90,001e06109401,AoT_Chicago,09A,Cottage Grove Ave & 115th St Chicago IL,AoT Chicago (S) [C],5/31/18 0:00,NA,-87.611081,41.685445
+91,001e06115382,AoT_Chicago,09B,State St & Monroe St Chicago IL,AoT Chicago (S) [C],3/23/18 0:00,NA,-87.62775,41.88076
+92,001e06113cf1,AoT_Chicago,09C,State St & Randolph St Chicago IL,AoT Chicago (S) [C],3/23/18 0:00,NA,-87.627864,41.884688
+93,001e06113acb,AoT_Chicago,09D,Ashland Ave & 31st Pl Chicago IL,AoT Chicago (S) [C],4/12/18 0:00,NA,-87.665685,41.839066
+94,001e06113f54,AoT_Chicago,0A0,Michigan Ave & Randolph St Chicago IL,AoT Chicago (S) [C],5/7/18 0:00,NA,-87.624577,41.884607
+95,001e06114500,AoT_Chicago,0A1,Halsted St & 99th St Chicago IL,AoT Chicago (S) [C],3/13/18 0:00,NA,-87.643099,41.714494
+96,001e06113d32,AoT_Chicago,0A2,Western Ave & Addison St Chicago IL,AoT Chicago (S) [C],3/14/18 0:00,NA,-87.688326,41.947066
+97,001e061146ba,AoT_Chicago,0A3,Long Ave & Lawrence Ave Chicago IL,AoT Chicago (S) [P],3/15/18 0:00,NA,-87.76257,41.96759
+98,001e06113a48,AoT_Chicago,0A4,Western Ave & Roscoe Ave Chicago IL,AoT Chicago (S) [P],3/15/18 0:00,NA,-87.688069,41.943263
+99,001e06113ba6,AoT_Chicago,0A5,Ashland Ave & Washington Chicago IL,AoT Chicago (S) [P],3/19/18 0:00,NA,-87.666748,41.883541
+100,001e06115379,AoT_Chicago,0A6,N Wells St & W Washington St Chicago IL,AoT Chicago (S) [P],3/27/18 0:00,NA,-87.63387,41.88326
+101,001e06114fd6,AoT_Chicago,0A7,Upper Wacker Dr & Randolph St Chicago IL,AoT Chicago (S) [P],5/7/18 0:00,NA,-87.636955,41.88449
+102,001e0611463b,AoT_Chicago,0A9,"UChicago, Shapiro Hall Chicago IL",AoT Chicago (S) [CP] {UChicago},12/4/18 0:00,NA,-87.587134,41.789737
+103,001e0611536c,AoT_Chicago,0AA,Dearborn St & Lake St Chicago IL,AoT Chicago (S) [P],5/8/18 0:00,NA,-87.62969,41.88575
+104,001e06114fd9,AoT_Chicago,0AC,Lake Shore Drive & Fullerton Ave Chicago IL,AoT Chicago (S) [C],6/4/18 0:00,NA,-87.631533,41.92617
+105,001e0611850f,AoT_Chicago,0AF,111th St & Martin Luther King Dr Chicago IL,AoT Chicago (S) [CP],6/24/19 0:00,NA,-87.613419,41.692837
+106,001e06118501,AoT_Chicago,0B0,Morgan Ave & 63rd St Chicago IL,AoT Chicago (S) [CP],4/25/19 0:00,NA,-87.649145,41.779805
+107,001e0611856d,AoT_Chicago,0B3,107th St & Longwood Ave Chicago IL,AoT Chicago (S) [CP],6/25/19 0:00,NA,-87.671154,41.699234
+108,001e061184a3,AoT_Chicago,0B4,99th St & Beverly Blvd Chicago IL,AoT Chicago (S) [CP],6/25/19 0:00,NA,-87.659612,41.714021
+109,001e06117b44,AoT_Chicago,0B5,95th St & Ashland Ave Chicago IL,AoT Chicago (S) [CP],6/25/19 0:00,NA,-87.66263,41.721301
+110,001e061183f3,AoT_Chicago,0B7,103rd & Western Ave Chicago IL,AoT Chicago (S) [CP],6/25/19 0:00,NA,-87.681606,41.706381
+111,001e06117b41,AoT_Chicago,0BA,60th & Michigan Ave Chicago IL,AoT Chicago (S) [CP],5/16/19 0:00,NA,-87.622214,41.785715
+112,001e061182a1,AoT_Chicago,0BD,Garfield Blvd & Michigan Ave Chicago IL,AoT Chicago (S) [CP],5/16/19 0:00,NA,-87.622479,41.794467
+113,001e061183eb,AoT_Chicago,0BE,63rd St & Halsted Ave Chicago IL,AoT Chicago (S) [CP],5/16/19 0:00,NA,-87.644777,41.779889
+114,001e061183f5,AoT_Chicago,0BF,111th & Michigan Ave Chicago IL,AoT Chicago (S) [CP],6/24/19 0:00,NA,-87.62102,41.692703
+115,001e061182a7,AoT_Chicago,0C0,111th & Vincennes Chicago IL,AoT Chicago (S) [CP],6/24/19 0:00,NA,-87.663723,41.691803
+116,001e06118509,AoT_Chicago,0C2,Racine Ave & 63rd St Chicago IL,AoT Chicago (S) [CP],4/25/19 0:00,NA,-87.654487,41.779744
+117,001e06118182,AoT_Chicago,0C3,Loomis Ave & 63rd St Chicago IL,AoT Chicago (S) [CP],4/25/19 0:00,NA,-87.659354,41.779593
+118,001e061184e7,AoT_Chicago,0.00E+00,Kostner Ave & 31st St Chicago IL,AoT Chicago (S) [CP],4/25/19 0:00,NA,-87.734087,41.836875
+119,001e06118295,AoT_Chicago,0EA,Pershing Rd & Damen Ave Chicago IL,AoT Chicago (S) [CP],4/25/19 0:00,NA,-87.802435,41.820972
+120,001e061182a3,AoT_Chicago,0F2,ComEd Training Center,AoT Chicago (S) [CP] {ComEd},4/25/19 0:00,NA,-87.659467,41.829806
+121,001e061181e8,AoT_Chicago,10C,ComEd Training Center,AoT Chicago (S) [CP] {ComEd},4/25/19 0:00,NA,-87.659467,41.829806
+122,001e06118433,AoT_Chicago,10E,ComEd Training Center,AoT Chicago (S) [CP] {ComEd},4/25/19 0:00,NA,-87.659467,41.829806
+123,001e061183bf,AoT_Chicago,11A,ComEd Training Center,AoT Chicago (S) [CP] {ComEd},4/25/19 0:00,NA,-87.659467,41.829806
+124,001e0611804d,AoT_Chicago,11E,ComEd Training Center,AoT Chicago (S) [CP] {ComEd},4/25/19 0:00,NA,-87.659467,41.829806
+125,001e061182a2,AoT_Chicago,13B,ComEd Training Center,AoT Chicago (S) [CP] {ComEd},4/25/19 0:00,NA,-87.659467,41.829806
+126,001e061144be,AoT_Chicago,890,"UChicago, Regenstine Chicago IL",AoT Chicago (S) [C] {UChicago},3/15/18 0:00,NA,-87.600008,41.792543
